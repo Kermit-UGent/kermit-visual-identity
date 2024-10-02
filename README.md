@@ -41,6 +41,8 @@ ports for Julia are not available atm.
 
 # Usage in presentations and documents
 
+If you are in need to pimp your presentations with some Catpuccin-inspired backgrounds or wallpapers, see [this repository](https://github.com/zhichaoh/catppuccin-wallpapers).
+
 🚧️ UNDER CONSTRUCTION 🚧️
 
 
