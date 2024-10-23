@@ -38,6 +38,7 @@ ports for Julia are not available atm.
 
 - [Excalidraw](https://excalidraw.com/) is a virtual whiteboard for sketching hand-drawn like diagrams and schemas.
 - [Inkscape](https://inkscape.org/) is an open-source vector drawing program.
+- [Napkin.ai](https://www.napkin.ai/) is a tool to generate `business` visuals: flowcharts, funnels, etc from text to spice up your presentation. Figures can be downloaded as a whole (both png, svg as well as pdf), but also the individual components can be stored.
 
 # Usage in presentations and documents
 
