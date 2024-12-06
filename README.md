@@ -14,6 +14,18 @@
 
 The visual identity of Kermit
 
+# The philosophy of visualisation and plots at Kermit: what how and why
+
+First start here with reading these documents: the [Economist group brand guide](https://design-system.economist.com/documents/The_Economist_Group_brand_style_guide-Nov-2017.pdf) or the [Economist visual style guide](https://design-system.economist.com/documents/CHARTstyleguide_20170505.pdf).
+
+Now, let us apply this to the Kermit identity.
+
+The 12 commandments of KERMIT plotting
+
+1. Make it clear from the plot itself what message you want to convey (if a line going up is positive, that should be clear without additional text).
+2. 
+
+
 # Colours
 
 Regarding colours, we suggest to use the [Catpuccin theme](https://catppuccin.com/). The Latte variant has the most saturated colours and will be the best choice for plots.
@@ -54,4 +66,4 @@ If you are in need to pimp your presentations with some Catpuccin-inspired backg
 
 # Various
 
-If you are in need of some more inspiration, you can check out the [Economist group brand guide](https://design-system.economist.com/documents/The_Economist_Group_brand_style_guide-Nov-2017.pdf) or the [Economist visual style guide](https://design-system.economist.com/documents/CHARTstyleguide_20170505.pdf).
+...
