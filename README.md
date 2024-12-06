@@ -34,6 +34,56 @@ For gradients make sure to use a colourblind friendly, perceptually uniform colo
 
 An easy installable option for Python users can be found [here](https://github.com/catppuccin/python).
 
+Colours from the logos (extracted using https://coolors.co/):
+
+```
+kermit cold
+
+YInMn Blue
+4E598C
+229, 44, 55
+229, 28, 43
+78, 89, 140
+44, 36, 0, 45
+39, 10, -30
+
+Sunset
+F9C784
+34, 47, 98
+34, 91, 75
+249, 199, 132
+0, 20, 47, 2
+83, 10, 40
+
+
+kermit warm
+
+cerulean blue
+0080A6
+194, 100, 65
+194, 100, 33
+0, 128, 166
+100, 23, 0, 35
+50, -16, -28
+
+Light yellow
+FDFCDC
+58, 13, 99
+58, 89, 93
+253, 252, 220
+0, 0, 13, 1
+98, -5, 15
+
+Bittersweet
+F07167
+4, 57, 94
+4, 82, 67
+240, 113, 103
+0, 53, 57, 6
+63, 48, 29
+```
+
+
 🚧️ UNDER CONSTRUCTION 🚧️
 
 ports for Julia are not available atm.
