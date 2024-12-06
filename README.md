@@ -16,7 +16,7 @@ The visual identity of Kermit
 
 # Colours
 
-Regarding colours, we suggest to use the [Catpuccin theme](https://catppuccin.com/).
+Regarding colours, we suggest to use the [Catpuccin theme](https://catppuccin.com/). The Latte variant has the most saturated colours and will be the best choice for plots.
 
 An easy installable option for Python users can be found [here](https://github.com/catppuccin/python).
 
