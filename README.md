@@ -28,7 +28,10 @@ ports for Julia are not available atm.
 
 # Fonts
 
-🚧️ UNDER CONSTRUCTION 🚧️
+
+- font: [Roboto](https://fonts.google.com/specimen/Roboto)
+- monospace: [Roboto mono](https://fonts.google.com/specimen/Roboto+Mono) or [IBM plex mono](https://fonts.google.com/specimen/IBM+Plex+Mono)
+- tex-compatible: [TeX Gyre Heros](https://ctan.org/pkg/tex-gyre-heros?lang=en)
 
 
 # Logo
