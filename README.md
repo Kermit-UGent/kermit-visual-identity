@@ -18,6 +18,8 @@ The visual identity of Kermit
 
 Regarding colours, we suggest to use the [Catpuccin theme](https://catppuccin.com/). The Latte variant has the most saturated colours and will be the best choice for plots.
 
+For gradients make sure to use a colourblind friendly, perceptually uniform colour scheme, see e.g. [matplotlib colours](https://matplotlib.org/stable/users/explain/colors/colormaps.html#sequential).
+
 An easy installable option for Python users can be found [here](https://github.com/catppuccin/python).
 
 🚧️ UNDER CONSTRUCTION 🚧️
