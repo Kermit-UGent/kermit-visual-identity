@@ -23,7 +23,10 @@ Now, let us apply this to the Kermit identity.
 The 12 commandments of KERMIT plotting
 
 1. Make it clear from the plot itself what message you want to convey (if a line going up is positive, that should be clear without additional text).
-2. 
+2. Slightly ticker lines (in plots) are preferred.
+3. One plot = one message for the reader.
+4. A complex plot can often be replaced by a table.
+5. 
 
 
 # Colours
@@ -105,7 +108,8 @@ ports for Julia are not available atm.
 
 - [Excalidraw](https://excalidraw.com/) is a virtual whiteboard for sketching hand-drawn like diagrams and schemas.
 - [Inkscape](https://inkscape.org/) is an open-source vector drawing program.
-- [Napkin.ai](https://www.napkin.ai/) is a tool to generate `business` visuals: flowcharts, funnels, etc from text to spice up your presentation. Figures can be downloaded as a whole (both png, svg as well as pdf), but also the individual components can be stored.
+- [Napkin.ai](https://www.napkin.ai/) is a tool to generate `business` visuals: flowcharts, funnels, etc, from text to spice up your presentation. Figures can be downloaded as a whole (both png, svg as well as pdf), but also the individual components can be stored.
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/) is a great alternative to Inkscape. It is professional software that requires a single fee.
 
 # Usage in presentations and documents
 
